@@ -1,0 +1,26 @@
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# ---- C / C++ 编译产物 ----
+*.exe
+*.o
+*.obj
+*.pdb
+*.ilk
+*.dll
+
+# ---- Java 编译产物 ----
+*.class
+*.jar
+out/
+
+# ---- 编辑器/系统 ----
+.DS_Store
+Thumbs.db
+desktop.ini
+*.log
